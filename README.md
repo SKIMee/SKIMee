@@ -5,7 +5,7 @@
 
 - 🎓 I aspire to become **a computer engineer**
 
-- 👨‍💻 All of my projects are available at [www.timothefarina.fr](www.timothefarina.fr)
+- 👨‍💻 All of my projects are available at [timothefarina.fr](https://www.timothefarina.fr/)
 
 - 📫 How to reach me **timothefarina@gmail.com**
 
